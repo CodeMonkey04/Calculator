@@ -1,8 +1,23 @@
 body {
-    background: black;
-    color: gold;
+    background: white;
+    color: rgb(40, 54, 18);
+    font-family: 'Indie Flower', cursive;
 }
 
+h1 {
+    font-size:60px;
+    margin: 4px;
+}
 input {
     padding: 10px;
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+}
+input:hover {
+    color:rgb(255, 255, 255);
+    background-color:rgb(0, 0, 0);
+}
+
+.container {
+    margin:auto
 }
